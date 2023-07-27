@@ -1,3 +1,10 @@
+//Laboratorio # 2 - Programación de plataformas móviles 
+//Universidad del Valle de Guatemala
+
+// @Edwing José Gabriel de León García – Carné No. 22809
+//@since 26/07/2023
+//CC3087 Seccion 31
+
 import java.util.*
 
 // Clase Hobby
